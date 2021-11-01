@@ -1,1 +1,1 @@
-# Games-templates
+# Games-template
